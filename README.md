@@ -1,8 +1,8 @@
 # Machine-Learning-Python-IBM-Coursera
 
-· Week 1 : Introduction to Machine Learning
-· Week 2 : Regression
-· Week 3 : Classification
-· Week 4 : Clustering
-· Week 5 : Recommender Systems
-· Week 5 : Final Project
+1 Week 1 : Introduction to Machine Learning
+2 Week 2 : Regression
+3 Week 3 : Classification
+4 Week 4 : Clustering
+5 Week 5 : Recommender Systems
+6 Week 5 : Final Project
